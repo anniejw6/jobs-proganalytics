@@ -1,0 +1,5 @@
+# Conclusion
+
+Working in progressive analytics is going to be a crazy, stressful, amazing, awful, and awesome ride. We’re glad that you’re getting started. By now, you should have a decent handle on the core skills that you need and some overall sense of what this industry is and who people are. Obviously, not everything is in this guide (Republican moles and all that), and you should consider this as merely a starting point for what will hopefully be a long and successful career. In the Appendix, you’ll find a list of resources to get you started in your job search. 
+
+I know that the thought of going through the application process and learning all of these skills can seem daunting. But remember that you’re now part of a community that wants you to succeed. Welcome. We’re glad you’re here.
