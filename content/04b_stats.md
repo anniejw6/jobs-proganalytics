@@ -1,10 +1,10 @@
-## Statistics
+# Statistics
 
-Statistics is what separates analysts* *from data managers. But statistics doesn’t need to be scary, and you don’t need a PhD to succeed in this industry. Below, I go over a few basic categories of statistical skills: inferential statistics, predictive modeling, and experimentation. 
+Statistics is what separates *analysts* from data managers. But statistics doesn’t need to be scary, and you don’t need a PhD to succeed in this industry. Below, I go over a few basic categories of statistical skills: inferential statistics, predictive modeling, and experimentation. 
 
-Different organizations will have different requirements for core skills, and you should feel comfortable asking organizations what type of statistics are most useful for them. If the organization specializes in modeling, then you brush up on that, etc. As a junior analyst, you only *need *to understand inferential statistics, probably.
+Different organizations will have different requirements for core skills, and you should feel comfortable asking organizations what type of statistics are most useful for them. If the organization specializes in modeling, then you brush up on that, etc. As a junior analyst, you only *need* to understand inferential statistics, probably.
 
-### Inferential Statistics
+## Inferential Statistics
 
 This is the type of statistics that you should know from your basic Stats 101 class:
 
@@ -18,13 +18,9 @@ This is the type of statistics that you should know from your basic Stats 101 cl
 
 * Interaction Terms
 
-Resources:
+If you need to brush up on stats, [Khan Academy](https://www.khanacademy.org/math/probability) and [Statistics One from Princeton](https://www.coursera.org/course/stats1) are both pretty good primers.
 
-* [Khan Academy](https://www.khanacademy.org/math/probability)
-
-* [Statistics One from Princeton](https://www.coursera.org/course/stats1)
-
-### (Predictive) Modeling
+## (Predictive) Modeling
 
 Predictive modeling is something that most social science or even statistics students will never work with. Usually, social scientists and other researchers use modeling for *inference*, i.e., trying to tease out substantive relationships between two or more variables. However, we can also use modeling for *prediction*. 
 
@@ -38,15 +34,13 @@ If you want to have a job that involves building models, here are some basic con
 
 * Know how to apply some standard machine learning algorithms: gradient boosting, random forest, LASSO/ridge/elastic net.
 
+* Bias-Variance tradeoff, why it matters, and how it applies to different algorithms
+
 * Accuracy metrics: root mean squared error, AUCROC, precision, recall
 
-Resources:
+The canonical intro textbook book on machine learning is the [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/), but you don't have a strong background in math or computer science, I'd actually reocmmend [Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014), which is by the same authors but a little more accessible.
 
-* [Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014)
-
-* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-
-### Experimentation
+## Experimentation
 
 Experimentation is often the only way to answer the questions we care about most. Any time that you have a question along the lines of "What is the *impact* or *effect *of X on Y?", that question ought to be answered with an experiment. In some cases, it won’t be possible to answer it with an experiment, but in most cases, it will be answered by something that’s not an experiment is therefore likely to be wrong.
 
@@ -62,8 +56,4 @@ If you understand the paragraph above, you probably know enough about experiment
 
 * Differential Attrition
 
-Resources:
-
-* [Introduction to Program Evaluation by J-PAL](http://www.povertyactionlab.org/methodology/what-randomization)
-
-* *[Field Experiments: Design, Analysis, and Interpretation](http://www.amazon.com/Field-Experiments-Design-Analysis-Interpretation/dp/0393979954)* by Don Green and Alan Gerber
+[Introduction to Program Evaluation by J-PAL](http://www.povertyactionlab.org/methodology/what-randomization) is a painless way to learn the basics, but your real introduction should be *[Field Experiments: Design, Analysis, and Interpretation](http://www.amazon.com/Field-Experiments-Design-Analysis-Interpretation/dp/0393979954)* by Don Green and Alan Gerber.
