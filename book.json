@@ -2,10 +2,14 @@
 	"structure": {
         "readme": "intro.md"
     },
-	"plugins": [ "github" ],
+	"plugins": [ "github", "edit-link" ],
 	"pluginsConfig": {
 		"github": {
 			"url": "https://github.com/anniejw6/jobs-proganalytics"
-		}
+		},
+		"edit-link": {
+			                "base": "https://github.com/anniejw6/jobs-proganalytics",
+					                "label": "Edit This Page"
+							            }
 	}
 }
