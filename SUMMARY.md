@@ -16,6 +16,5 @@
     * [Soft Skills](content/04d_soft.md)
 * [Conclusion](content/05_conc.md)
 * Appendix
-    * FAQ
-    * Mailing Lists
-    * Organizations
+    * [FAQ](content/99_faq.md)
+    * [Finding Jobs](content/99_orgs.md)
