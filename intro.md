@@ -9,6 +9,6 @@ This document was prepared by the author in her personal capacity. The opinions 
 
 # Contributions
 Feel free to create issues or pull-requests if you have any problems.
-Please read CONTRIBUTING.md before pushing any changes.
+Please read [CONTRIBUTING.md](https://github.com/anniejw6/jobs-proganalytics/blob/master/contributing.md) before pushing any changes.
 
 [^1]: A friend of mine described working in politics as “the only place in the world in which young people are given so much responsibility.” And while he meant “young” in the literal sense, it’s true more broadly. People with limited experience in this field will be given enormous responsibility as soon as they prove themselves.
