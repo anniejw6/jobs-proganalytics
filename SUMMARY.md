@@ -18,3 +18,4 @@
 * Appendix
     * [FAQ](content/99_faq.md)
     * [Finding Jobs](content/99_orgs.md)
+    * [Thanks!](contributors.md)
