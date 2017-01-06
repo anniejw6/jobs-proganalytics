@@ -86,7 +86,7 @@ Here are some basic things that you should expect to know how to do in SQL by th
 
 * How to GROUP BY a column and calculate aggregates
 
-Good tutorials include [SQLZOO](http://sqlzoo.net/) and [w3 Schools](http://www.w3schools.com/sql/).
+Good tutorials include [SQLZOO](http://sqlzoo.net/), [Codecademy](https://www.codecademy.com/learn/learn-sql), [ModeAnalytics SQL School](https://sqlschool.modeanalytics.com/toc/), and [w3 Schools](http://www.w3schools.com/sql/).
 
 ### Excel
 
