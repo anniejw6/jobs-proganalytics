@@ -45,3 +45,7 @@ For example,
 > Jenny
 
 If you don’t get a response to this email, it doesn’t mean that this person doesn’t like you. It’s probably more likely that they’re just busy. At any rate, it can’t really hurt and can possibly help.
+
+#### What happened in 2016, and why would I still want to join this field?
+
+The first question is solidly beyond the scope of this doc. The second is that, despite whatever problems you believed occured, it's clear that we have a lot of work to do in the coming years. Want to help?
