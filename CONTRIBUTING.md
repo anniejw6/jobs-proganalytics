@@ -1,7 +1,13 @@
 Contributing
 ===============================================================================
 
-Here's how to contribute to [this book](https://github.com/anniejw6/jobs-proganalytics):
+You have a few ways to contribute: 
+
+* Email me (anniejw6@gmail.com)
+* [Create an issue on this repository](https://github.com/anniejw6/jobs-proganalytics/issues)
+* Fork this repository and contribute a pull request. Instructions for that below.
+
+Here's how to make a fork and pull request:
 
 1. Press the fork button:
 
@@ -20,16 +26,12 @@ Here's how to contribute to [this book](https://github.com/anniejw6/jobs-progana
     ```
     You can name it however you want.
 
-4. Make your changes.
+4. All of the content in this book is located in the `content/` folder, so find the appropriate file and make your changes there.
 
 5. Don't forget to add yourself in `contributors.md`.
 
 6. Commit and push your changes, then make a pull request from Github.
 
-**IMPORTANT**
-
-Please, don't forget to update your fork. While you made your changes, the content of the `master` branch can change because other pull requests were merged and it can create conflicts. This is why you have to rebase on `master` every time before pushing your changes and check that your branch doesn't have any conflicts with `master`.
-
-Thanks!
+If you have any questions, feel free to shoot me an e-mail.
 
 Much of the content of this contribution doc was written by [0xAX](https://github.com/0xAX/linux-insides/blob/master/CONTRIBUTING.md)
