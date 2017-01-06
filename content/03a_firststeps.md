@@ -43,5 +43,3 @@ People are busy in this field, and although they might seem brusque or rude, the
 [^1]: If you want to submit a CV, that's fine, but it may connote that you're not serious about a non-academic career.
 [^2]: In fact, almost any volunteer activity as part of an organized effort will teach you skills to succeed in this industry. If you don’t have campaign activity but do have other forms of volunteer experience, put it in a separate section.
 
-# TODO
-* Add link to FAQ for PhD candidates
