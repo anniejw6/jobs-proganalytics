@@ -2,7 +2,7 @@
 
 If you’ve passed the technical assessment, it usually means that the organization is confident in your technical skills and now wants to make sure that you are a good fit. Typically, your interviewer is looking for a few different things:
 
-* Are you actually interested in progressive politics?[^1]
+* Are you actually interested in progressive politics? What issues / candidates animate you?
 * Are you a nice person? 
 * Are you a good communicator?
 * Will you fit into our team?
@@ -26,9 +26,4 @@ Here’s something you should always ask about:
 * What are the next steps in the process?
 * When should I hear back about whether or not I’m moving on?
 
-After your interview, send a thank-you note. Ideally, your note should reference the interview you just had. E-mail is more than sufficient.
-
-# TODO
-* Add link to soft skills
-
-[^1]: Fun story: when I was applying to my first job in progressive analytics, I was asked by my interviewer "so why do you want to work at this company?" I thought it was a generic question, so I talked about the specific qualities of the company and the job that stood out to me vis à vis other progressive firms. Then, he asked me again, and I gave similar reasons. Finally, he just asked me outright why I wanted to work at this company instead of somewhere like the Republican National Committee, and I finally understood the point of the question.
+After your interview, send a thank-you note (by email). Ideally, your note should reference the interview you just had.
