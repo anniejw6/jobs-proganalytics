@@ -20,7 +20,7 @@ In addition to the organizations listed below, you can assume that large campaig
 
 * Analyst Institute
 
-* Analytics Media Group
+* 605 (formerly Analytics Media Group)
 
 * BlueLabs
 
@@ -65,7 +65,3 @@ In addition to the organizations listed below, you can assume that large campaig
 * Voter Participation Center
 
 * Working America
-
-# TODO
-
-* Add links here
