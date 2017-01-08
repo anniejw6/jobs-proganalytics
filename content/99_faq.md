@@ -12,6 +12,17 @@ In your cover letter, be explicit about what you’re looking for. Is it a job f
 
 Last note: a lot of your future colleagues will be younger and less credentialed than you. Try not to be condescending.
 
+#### Should I go back to school (to develop technical skills)?
+
+According to the [2016 salary survey](http://crackthecode.io/salary_survey2016.pdf), people with PhDs tend to make higher salaries in this field, but there's not a big difference between Bachelor's and Master's degree holders (see Table 22). That said, it's hard to say whether there are causal relationships here.
+
+For most jobs in this space, I would be surprised if it were **necessary** to go back to school. It may be *easier* for you to learn certain skills in an academic environment, but a lot of those skills can be self-taught or learned in an online course. But self-teaching is hard. You may also like school! If you have the money and want to go back to school, it's unlikely that going to school will significantly *hurt* your career outside of the opportunity cost of not working for X number of years (this is generally more true for PhD programs than Masters programs). One option, if you can't decide, is to audit courses at a local university.
+
+There are some roles where formal academic training will be necessary, and I think this becomes more true the more specialized you want to be. If you want to develop algorithms full-time, for example, some formal training will probably help. But most "data science" problems that organizations have can be solved in Excel or through some fairly basic open-source packages in R or Python. 
+
+A note on online certifications specifically: I am sometimes skeptical when I see certifications from online courses listed on resumes because, typically, the theoretical training is weaker than in an academic institution, and the practical components are as weak. I am most impressed when people take statistics or programming skills and apply them either to their work or to non-work projects involving real data. That's just because working on an unstructured project with messy data is substantively different than completing class assignments. In lieu of listing online courses, I would just list the languages/programs that you know at the bottom of your resume and describe, in the body of the resume, some projects you have done using those skills (within or outside of past jobs).
+
+
 #### How do I reach out to someone?
 
 The progressive analytics community is generally pretty nice, and you should befriend other people in your field - senior, junior, etc. They may not be your mentor (or even your friend), but everyone likes talking about themselves and you shouldn't be afraid to ask someone to get a coffee/drink to just chat.
