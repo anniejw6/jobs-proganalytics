@@ -1,5 +1,6 @@
 Thank you to everyone who read and offered feedback:
 
+* Pete Backof
 * Kate Dahl
 * Kassia DeVorsey
 * Drew Levin
