@@ -10,11 +10,11 @@ Another thing to keep in mind: people are generally bad at writing job descripti
 
 # Writing a Strong Resume and Cover Letter
 
-Your resume should be a one-page summary of your skills and experience.[^1] You will not typically need to change your resume within a given industry, but you may need to tailor your resume across industries. Your resume should include the following information (though not necessarily in this order):
+Your resume should be a one-page summary of your skills and experience.[^1] You will not typically need to change your resume within a given industry, but you may need to tailor your resume across industries. Broadly speaking, your resume should demonstrate your fit for the role. It should include the following information (though not necessarily in this order):
 
 * **Basic Information**: Full name, current location, e-mail address, phone number, and (if you have them) personal website or GitHub account.
 * **Education**: Institution and date of degree. If you are less than four years out of school or this is your first job in the field, you may also want to include *relevant* coursework (not every course you've ever taken on American politics).
-* **Work Experience**: Any jobs that you’ve held in reverse-chronological order. List key duties, projects, and tools used. Jobs that are less relevant can be summarized more quickly
+* **Work Experience**: Any jobs that you’ve held. Typically, jobs are listed in reverse-chronological order, but I actually prefer jobs to be listed in order of relevance (as long as they were within, say, 5-7 years). List key duties, projects, and tools used. Jobs that are less relevant should be heavily summarized or excluded entirely.
 * **Campaign Experience**: *Any* campaign experience will be useful for breaking into this industry, even if all you did was volunteer to register voters at your college campus. If you don’t have campaign experience, volunteer on one to do literally anything.[^2]
 * **Technical Skills**: List languages that you know in order of relevance and comfort, e.g., statistical packages first, and list those in the order in which you’re most comfortable. Also list tools or software that you know in order of relevance and comfort.
 
