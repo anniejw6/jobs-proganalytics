@@ -40,6 +40,8 @@ People are busy in this field, and although they might seem brusque or rude, the
 
 * **Do NOT call the organization, campaign, or company** or any members of the hiring team outside of the normal hiring process. That’s pretty weird and will be viewed negatively. 
 
+* **Networking events can be really helpful.** Examples include any happy hours sponsored by data & analytics organizations (although, be warned, most of these take place in DC), [RootsCamp](http://rootscamp.wellstone.org/) or other events by [Wellstone](http://www.wellstone.org/), [Netroots Nation](http://www.netrootsnation.org/), or [SXSW](https://www.sxsw.com/). That said, you're not obligated to go to any of these, and plenty of people get jobs without ever attending these events.
+
 [^1]: If you want to submit a CV, that's fine, but it may connote that you're not serious about a non-academic career.
 [^2]: In fact, almost any volunteer activity as part of an organized effort will teach you skills to succeed in this industry. If you don’t have campaign activity but do have other forms of volunteer experience, put it in a separate section.
 
