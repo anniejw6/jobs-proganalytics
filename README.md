@@ -1,5 +1,7 @@
 # So You Want to Work in Progressive Analytics...
 
+Version 1.1.0
+
 A guide for folks interested in getting a job in progressive data and analytics
 
 # Disclaimer
