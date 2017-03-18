@@ -14,6 +14,12 @@ In your cover letter, be explicit about what you’re looking for. Is it a job f
 
 A lot of your colleagues will be younger and less credentialed than you. There is a reason they have the job they do, and you should learn as much as you can from them (and they should also learn from you). Don't be condescending and don't assume that that, by virtue of your training or credential, people ought to defer expertise on politics to you. If this would bother you, then you might want to stay in academia.
 
+Some misc and very specific advice:
+
+* Don't use jargon and don't assume that people know what "endogeneity" (or similar) means. Most interviewers won't ask you to clarify (because it's hard to admit that you don't know something!), and will just assume that you're a bad communicator.
+* Relatedly, if asked for a writing sample, be wary of just sending a dissertation chapter. If you're asked for a writing sample, it's probably because the job requires communicating with non-technical readers. Is a dissertation chapter really a good example of that?
+* Try to pump yourself up before your interview. I know the PhD probably wasn't a ton of fun (hence why you're trying to get out?), but try to seem excited for this new opportunity.
+
 #### Should I go back to school (to develop technical skills)?
 
 According to the [2016 salary survey](http://crackthecode.io/salary_survey2016.pdf), people with PhDs tend to make higher salaries in this field, but there's not a big difference between Bachelor's and Master's degree holders (see Table 22). That said, it's hard to say whether there are causal relationships here.
