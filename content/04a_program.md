@@ -150,6 +150,8 @@ You should consider doing all of this in [jupyter notebook](http://pgbovine.net/
 
 Like R, there are lots of good resources for learning Python. Some of my favorites include [Learn Python the Hard Way](http://learnpythonthehardway.org/), [Think Python](http://www.greenteapress.com/thinkpython2/index.html), [Python for Social Scientists](http://www.pythonforsocialscientists.org/), and [A list of Python Tutorials for Social Scientists](http://nealcaren.github.io/python-tutorials/).
 
+Berkeley PoliSci offers a good [course on computational tools for social research](https://github.com/ribernhard/PS239T) that covers a lot of this stuff for R and Python. The Python section has neater code than the R section, so if you're relying on this for R, you might want to also look at a [style guide](http://adv-r.had.co.nz/Style.html).
+
 #### A Note on Stata and SPSS
 
 If you don’t know Stata or SPSS, skip this section, and thank your statistics professors.
