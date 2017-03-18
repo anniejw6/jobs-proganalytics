@@ -1,16 +1,18 @@
 # Frequently Asked Questions
 
-#### I am in/have recently graduated from a PhD program. Do you have any advice for me?
+#### I am in or have recently graduated from a PhD program. Do you have any advice for me?
 
-For better or for worse, people have weird biases around PhD candidates/graduates. Some folks think that it’s really great to have the additional academic training and a solid grounding in substantive theory. Other people will be worried that you can’t respond to the fast pace of a campaign and are too theoretical to be useful. If you can, try to find out which camp your organization or interviewer falls into. 
+[Here, I'm not going to try to convince you that you want a job in this field. If you want that, though, here's some advice on how to get one.]
 
-No matter what, try to frame your research and work in practical, not theoretical, terms. What is the value of the knowledge that you bring for campaigns? It’s okay to say that there isn’t a lot of practical value, but, in that case, what is the value of the skills that you bring?
+For better or for worse, people have weird biases around PhD candidates/graduates. Some folks think that it’s really great to have the additional academic training and a solid grounding in substantive theory. Other people will be worried that you can’t respond to the fast pace of a campaign and are too theoretical to be useful. And, if we're being totally honest, a fair amount will be wondering in the back of their heads whether you will see your skills and time in graduate school as more valuable than folks who've spent years on campaigns. If you can, try to find out which camp your organization or interviewer falls into. One really easy way to do this is to see how many PhDs (or PhD dropouts) they employ and if there are any from your field. Reach out to them as a fellow PhD holder: you'll probably get a fair amount of sympathy for purusing a non-academic path.
 
-As a PhD candidate, you’ll be held to higher standards than other entry-level candidates, even if this is your first job out of school. You should be comfortable with a variety of statistical methods and know either Python or R. If you only know Stata, then take 2-3 months and learn another language. List that language first on your resume.
+No matter what, try to frame your research and work in practical, not theoretical, terms. What is the value of the knowledge that you bring for campaigns? It’s okay to say that there isn’t a lot of practical value, but, in that case, what is the value of the skills that you bring? -- The point here is that you need to demonstrate that you will add value to an organization, not just do research that people won't find useful.
 
-In your cover letter, be explicit about what you’re looking for. Is it a job for the election cycle? A summer + fall semester job? Looking to leave academia?
+As a PhD candidate, you’ll be held to higher standards than other entry-level candidates, even if this is your first job out of school. You should be comfortable with a variety of statistical methods and know either Python or R. If you only know Stata, then take 2-3 months and learn another language. List that language first on your resume. Graduate school is a near-optimal environment to learn hard skills, and you should take advantage of that.
 
-Last note: a lot of your future colleagues will be younger and less credentialed than you. Try not to be condescending.
+In your cover letter, be explicit about what you’re looking for. Is it a job for the election cycle? A summer + fall semester job? Looking to leave academia? 
+
+A lot of your colleagues will be younger and less credentialed than you. There is a reason they have the job they do, and you should learn as much as you can from them (and they should also learn from you). Don't be condescending and don't assume that that, by virtue of your training or credential, people ought to defer expertise on politics to you. If this would bother you, then you might want to stay in academia.
 
 #### Should I go back to school (to develop technical skills)?
 
