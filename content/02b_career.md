@@ -8,7 +8,7 @@ Honestly, analytics is so new that there aren’t well-established career tracks
 
 * **Analytics Manager**: You manage a team of two or more analysts at once. You are responsible for the work coming out of your team. You participate in senior-level discussions. Salaries at this level are $75k+.
 
-For a more detailed analysis, you can see the [2016 Progressive Data Salary Survey](http://crackthecode.io/salary_survey2016.pdf), which reports salaries across progressive data, analytics, and technology.
+For a more detailed analysis, you can see the [2017 Progressive Data, Analytics, and Technology Salary Survey](https://crackthecode.io/salary2017), which reports salaries across progressive data, analytics, and technology.
 
 People switch in and out of this trajectory at any level, and people hop out of progressive analytics at pretty regular intervals to go into other roles at progressive organizations, graduate school/academia, or (increasingly) the private sector. In addition, folks might specialize at any level of this trajectory, e.g. specialize in modeling, experimentation, polling, or something else. If you’re transitioning from the private sector to progressive politics, you’ll probably have a pay cut. You should note that you’re open to this sort of pay cut.
 
