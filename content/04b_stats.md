@@ -56,4 +56,4 @@ If you understand the paragraph above, you probably know enough about experiment
 
 * Differential Attrition
 
-[Introduction to Program Evaluation by J-PAL](http://www.povertyactionlab.org/methodology/what-randomization) is a painless way to learn the basics, but your real introduction should be *[Field Experiments: Design, Analysis, and Interpretation](http://www.amazon.com/Field-Experiments-Design-Analysis-Interpretation/dp/0393979954)* by Don Green and Alan Gerber.
+[Introduction to Program Evaluation by J-PAL](https://www.povertyactionlab.org/research-resources/introduction-evaluations) is a painless way to learn the basics, but your real introduction should be *[Field Experiments: Design, Analysis, and Interpretation](http://www.amazon.com/Field-Experiments-Design-Analysis-Interpretation/dp/0393979954)* by Don Green and Alan Gerber.
