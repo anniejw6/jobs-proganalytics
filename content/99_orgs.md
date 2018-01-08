@@ -2,13 +2,11 @@
 
 This page lists some mailing lists where jobs are posted and some organizations with large analytics teams.
 
-## Mailing Lists to Join
+## Sites and Mailing Lists
 
-Keep in mind that both of these mailing lists are for progressive jobs generally, so only a small subset will be related to analytics. 
+* [Progressive Data Jobs](https://www.progressivedatajobs.org/) aggregates job postings related to data, analytics, and technology. (Full disclosure: I maintain this site along with Lena Tom)
 
-* [NOI Jobs](https://groups.google.com/forum/#!forum/noi-jobs)
-
-* [Jobs That Are Left](https://groups.google.com/forum/#!forum/jobsthatareleft)
+* [NOI Jobs](https://groups.google.com/forum/#!forum/noi-jobs) and [Jobs That Are Left](https://groups.google.com/forum/#!forum/jobsthatareleft) aggregate progressive jobs generally, so only a small subset will be related to analytics. 
 
 ##  List of Organizations (Alphabetical)
 
