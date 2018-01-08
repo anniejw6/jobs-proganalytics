@@ -50,8 +50,6 @@ In addition to the organizations listed below, you can assume that large campaig
 
 * EMILY’s List
 
-* Enroll America
-
 * League of Conservation Voters
 
 * National Education Association
