@@ -20,7 +20,7 @@ Your resume should be a one-page summary of your skills and experience.[^1] You 
 
 For more advice on writing a resume, you can read Kass DeVorsey's [Medium article](https://medium.com/@hereiskass/resume-writing-telling-your-story-bf754cc3beb0#.o841olfmg).
 
-If you have the opportunity to write a cover letter, take advantage of it. A cover letter is your opportunity to demonstrate your interest in this field and your desire to fulfill the specific role in question. Typically, the hiring manager will read your resume first and then address any remaining questions in the cover letter. You need to make sure that the cover letter address why you want this job and why the company should want you: 
+If you have the opportunity to write a cover letter, take advantage of it. A cover letter is your opportunity to demonstrate your interest in this field and your desire to fulfill the specific role in question. Typically, the hiring manager will read your resume first and then address any remaining questions in the cover letter. You need to make sure that the cover letter addresses why you want this job and why the company should want you: 
 
 * **Clearly demonstrate your fit for the role.** Read the job description, and find examples of your work that fulfill the job description. If you are barely changing the cover letter across different organizations, you are doing something wrong.
 
